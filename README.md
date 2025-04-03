@@ -1,17 +1,54 @@
-<h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">I'm a software engineer from Germany</h3>
+# 👋 Hey, I'm Jan!
 
-- 🔭 I’m currently working on [Songify](https://github.com/songify-rocks)
+I'm a software developer from Germany :de:. I am passionate about building practical, performant, and open-source tools — especially for streamers, communities, and automation. Everything I build is from scratch and I love to learn as I go!
 
-- 📫 How to reach me **hello@overcode.tv**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/inzaniity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inzaniity" height="30" width="40" /></a>
-</p>
+### 🎵 Creator of [**Songify**](https://github.com/songify-rocks/Songify)
+A powerful Twitch + Spotify companion that lets your viewers request songs, manage queues, and interact through chat commands or channel points.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- ✅ Integrates with Spotify, Twitch, OBS
+- 🎧 WebSocket + Channel Reward support
+- 🌐 Web interface & overlay widgets
+- 💬 Custom commands, cooldowns, moderation
+- 📊 Over **9 million** requests served (and counting!)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/overcodetv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="overcodetv" /></a></p><br><br>
+---
+
+### 🧠 Other Projects
+
+- [**WolfpackBot**](https://wolfpackbot.me/home) — Twitch Chat Bot
+- [**VigilSC Bot**](https://bot.vigilsc.com/home) — Twitch Chat Bot
+
+---
+
+### 🛠️ Tech Stack
+💻 C# / .NET Framework | ⚙️ WPF / WinForms 🌐 Node.js / Express.js | 🧠 SQLite / MariaDB 🤖 Discord.js / Tmi.js | 💬 Twitch Bots & Discord Bots 📦 GitHub Actions / PowerShell
+
+---
+
+### 🚀 What I'm Currently Working On
+- Rebuilding the Songify website
+- Building a new server for everything Songify and other tools
+- Learning data analysis / science using Python 🐍
+
+---
+
+### 🌍 Connect
+- 💬 [Discord Server](https://discord.com/invite/H8nd4T4) — chat with the Songify community
+- 📷 [Instagram](https://www.instagram.com/jan.blmchr/) — I sometimes post pics
+- 🌐 [songify.rocks](https://songify.rocks) — live site & documentation
+
+---
+
+### 🤝 Want to Contribute?
+PRs, suggestions, and issues are always welcome!  
+Whether it’s improving docs, UI tweaks, or backend logic — it all helps 
+
+---
+
+### 🧠 Fun Fact
+I love deep-diving into technical problems, fixing weird edge cases at 2AM, and occasionally going on long cycling trips to clear my head 🚴‍♂️
+
+Thanks for stopping by!
+
