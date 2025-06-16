@@ -23,7 +23,13 @@ A powerful Twitch + Spotify companion that lets your viewers request songs, mana
 ---
 
 ### 🛠️ Tech Stack
-💻 C# / .NET Framework | ⚙️ WPF / WinForms 🌐 Node.js / Express.js | 🧠 SQLite / MariaDB 🤖 Discord.js / Tmi.js | 💬 Twitch Bots & Discord Bots 📦 GitHub Actions / PowerShell
+💻 C# / .NET Framework  
+⚙️ WPF / WinForms  
+🌐 Node.js / Express.js  
+🧠 SQLite / MariaDB  
+🤖 Discord.js / Tmi.js  
+💬 Twitch Bots & Discord Bots  
+📦 GitHub Actions / PowerShell  
 
 ---
 
