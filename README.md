@@ -18,7 +18,7 @@ A powerful Twitch + Spotify companion that lets your viewers request songs, mana
 ### 🧠 Other Projects
 
 - [**WolfpackBot**](https://wolfpackbot.me/home) — Twitch Chat Bot
-- [**VigilSC Bot**](https://bot.vigilsc.com/home) — Twitch Chat Bot
+- [**VigilTGI Bot**](https://bot.vigiltgi.com/home) — Twitch Chat Bot
 
 ---
 
@@ -41,20 +41,12 @@ A powerful Twitch + Spotify companion that lets your viewers request songs, mana
 ---
 
 ### 🌍 Connect
-- 💬 [Discord Server](https://discord.com/invite/H8nd4T4) — chat with the Songify community
-- 📷 [Instagram](https://www.instagram.com/jan.blmchr/) — I sometimes post pics
-- 🌐 [songify.rocks](https://songify.rocks) — live site & documentation
+- [Discord Server](https://discord.com/invite/H8nd4T4) — chat with the Songify community
+- [Instagram](https://www.instagram.com/jan.blmchr/) — I sometimes post pics
+- [songify.rocks](https://songify.rocks) — live site & documentation
 
 ---
 
-### 🤝 Want to Contribute?
+### Want to Contribute?
 PRs, suggestions, and issues are always welcome!  
 Whether it’s improving docs, UI tweaks, or backend logic — it all helps 
-
----
-
-### 🧠 Fun Fact
-I love deep-diving into technical problems, fixing weird edge cases at 2AM, and occasionally going on long cycling trips to clear my head 🚴‍♂️
-
-Thanks for stopping by!
-
