@@ -7,11 +7,11 @@ I'm a software developer from Germany :de:. I am passionate about building pract
 ### 🎵 Creator of [**Songify**](https://github.com/songify-rocks/Songify)
 A powerful Twitch + Spotify companion that lets your viewers request songs, manage queues, and interact through chat commands or channel points.
 
-- ✅ Integrates with Spotify, Twitch, OBS
-- 🎧 WebSocket + Channel Reward support
-- 🌐 Web interface & overlay widgets
-- 💬 Custom commands, cooldowns, moderation
-- 📊 Over **9 million** requests served (and counting!)
+- Integrates with Spotify, Twitch, OBS
+- WebSocket + Channel Reward support
+- Web interface & overlay widgets
+- Custom commands, cooldowns, moderation
+- Over **9 million** requests served (and counting!)
 
 ---
 
