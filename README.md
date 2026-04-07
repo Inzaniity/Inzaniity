@@ -1,52 +1,78 @@
-# 👋 Hey, I'm Jan!
+# 👋 Hi, I'm Jan
 
-I'm a software developer from Germany :de:. I am passionate about building practical, performant, and open-source tools — especially for streamers, communities, and automation. Everything I build is from scratch and I love to learn as I go!
-
----
-
-### 🎵 Creator of [**Songify**](https://github.com/songify-rocks/Songify)
-A powerful Twitch + Spotify companion that lets your viewers request songs, manage queues, and interact through chat commands or channel points.
-
-- Integrates with Spotify, Twitch, OBS
-- WebSocket + Channel Reward support
-- Web interface & overlay widgets
-- Custom commands, cooldowns, moderation
-- Over **9 million** requests served (and counting!)
+Software Developer based in Germany 🇩🇪  
+I build scalable, real-world applications with a focus on backend systems, APIs, and real-time architectures.
 
 ---
 
-### 🧠 Other Projects
+## 🚀 Featured Project
 
-- [**WolfpackBot**](https://wolfpackbot.me/home) — Twitch Chat Bot
-- [**VigilTGI Bot**](https://bot.vigiltgi.com/home) — Twitch Chat Bot
+### 🎵 Songify
+A full-stack Twitch + Spotify companion app enabling real-time song requests and stream interaction.
 
----
+- Integrated with Spotify, Twitch, OBS, and third-party services
+- Designed real-time WebSocket-based architecture
+- Built scalable queue and voting systems for live environments
+- Custom commands, moderation tools, and overlay widgets
+- Processed **16.3M+ requests**
+- Supports **14.6k+ monthly users**
+- Reached **123k+ total users**
 
-### 🛠️ Tech Stack
-💻 C# / .NET Framework  
-⚙️ WPF / WinForms  
-🌐 Node.js / Express.js  
-🧠 SQLite / MariaDB  
-🤖 Discord.js / Tmi.js  
-💬 Twitch Bots & Discord Bots  
-📦 GitHub Actions / PowerShell  
-
----
-
-### 🚀 What I'm Currently Working On
-- Rebuilding the Songify website
-- Building a new server for everything Songify and other tools
-- Learning data analysis / science using Python 🐍
+👉 https://github.com/songify-rocks/Songify
 
 ---
 
-### 🌍 Connect
-- [Discord Server](https://discord.com/invite/H8nd4T4) — chat with the Songify community
-- [Instagram](https://www.instagram.com/jan.blmchr/) — I sometimes post pics
-- [songify.rocks](https://songify.rocks) — live site & documentation
+## 🧠 Experience Highlights
+
+- Building and maintaining production-ready applications end-to-end
+- Designing APIs and integrating external services such as Spotify and Twitch
+- Developing real-time systems using WebSockets
+- Working with structured data, SQL, and ETL-related workflows
+- Combining software development with practical, customer-facing problem solving
 
 ---
 
-### Want to Contribute?
-PRs, suggestions, and issues are always welcome!  
-Whether it’s improving docs, UI tweaks, or backend logic — it all helps 
+## 🛠️ Tech Stack
+
+**Backend:**  
+C# / .NET, REST APIs, WebSockets, OAuth
+
+**Frontend / Web:**  
+JavaScript, Node.js, HTML / CSS
+
+**Data:**  
+MariaDB, SQLite, SQL, Data Modeling
+
+**Infrastructure:**  
+Docker, Linux, Nginx, GitHub Actions
+
+**Other:**  
+Twitch API, Discord Bots, Automation Tools
+
+---
+
+## 🧩 Other Projects
+
+- WolfpackBot — Twitch Chat Bot
+- VigilTGI Bot — Twitch Chat Bot
+
+---
+
+## 📈 Currently Working On
+
+- Rebuilding the Songify platform
+- Building a centralized backend infrastructure
+- Expanding into data analysis with Python
+
+---
+
+## 🌍 Connect
+
+- https://songify.rocks
+- https://discord.com/invite/H8nd4T4
+
+---
+
+## 🤝 Contributions
+
+Contributions, ideas, and feedback are always welcome!
